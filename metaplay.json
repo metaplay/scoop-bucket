@@ -1,0 +1,28 @@
+{
+    "version": "0.0.5",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/metaplay/cli/releases/download/0.0.5/MetaplayCLI_Windows_i386.zip",
+            "bin": [
+                "metaplay.exe"
+            ],
+            "hash": "e84e987f802c8802e90163b69bd42d5c85452bc1e76f073142b5114cceec891a"
+        },
+        "64bit": {
+            "url": "https://github.com/metaplay/cli/releases/download/0.0.5/MetaplayCLI_Windows_x86_64.zip",
+            "bin": [
+                "metaplay.exe"
+            ],
+            "hash": "a537dfaaa3313f091e24e76eac7d76644f6841c5b947359cde6cef4bc75db6d4"
+        },
+        "arm64": {
+            "url": "https://github.com/metaplay/cli/releases/download/0.0.5/MetaplayCLI_Windows_arm64.zip",
+            "bin": [
+                "metaplay.exe"
+            ],
+            "hash": "f6899b48abc1236705dd6c57f3b0f96922d8c425551c9ab49a30fbc5cb95f5b1"
+        }
+    },
+    "homepage": "https://www.metaplay.io/",
+    "description": "CLI tool to manage the Metaplay SDK in game projects, make cloud deployments, and more."
+}
