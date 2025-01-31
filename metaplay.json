@@ -1,26 +1,19 @@
 {
-    "version": "0.0.9",
+    "version": "0.1.0",
     "architecture": {
-        "32bit": {
-            "url": "https://github.com/metaplay/cli/releases/download/0.0.9/MetaplayCLI_Windows_i386.zip",
-            "bin": [
-                "metaplay.exe"
-            ],
-            "hash": "f586f28615fcae8f0062f8321ba1c0e5734cfef75f27a72b7fc13d97fc103dd6"
-        },
         "64bit": {
-            "url": "https://github.com/metaplay/cli/releases/download/0.0.9/MetaplayCLI_Windows_x86_64.zip",
+            "url": "https://github.com/metaplay/cli/releases/download/0.1.0/MetaplayCLI_Windows_x86_64.zip",
             "bin": [
                 "metaplay.exe"
             ],
-            "hash": "c08c6dade44135ebea989bcd4e751558c40013534ab75bbc88e8498b090aba7d"
+            "hash": "93253f6c614ccc918189cb085f58ac9cfaf5b8eaaf65379d695d1fc87606bae8"
         },
         "arm64": {
-            "url": "https://github.com/metaplay/cli/releases/download/0.0.9/MetaplayCLI_Windows_arm64.zip",
+            "url": "https://github.com/metaplay/cli/releases/download/0.1.0/MetaplayCLI_Windows_arm64.zip",
             "bin": [
                 "metaplay.exe"
             ],
-            "hash": "3a9a15e6a544ff1a0969d0a55adeb2ce32f597d57be9516b7050db8665236c70"
+            "hash": "51a7774c17b41ad4fdb377ecd6400e0eef37633b3308b3592aa8391fe81e98a0"
         }
     },
     "homepage": "https://www.metaplay.io/",
