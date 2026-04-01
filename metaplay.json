@@ -6,14 +6,14 @@
             "bin": [
                 "metaplay.exe"
             ],
-            "hash": "268f52160f6aa27749e78685648d788132612fec6a6d8ee6ca78f027d3da694c"
+            "hash": "cfcdc4f39f3c5e1843b26d0b12886e4184492281465a00de63d5e22154e064e2"
         },
         "arm64": {
             "url": "https://github.com/metaplay/cli/releases/download/1.9.11/MetaplayCLI_Windows_arm64.zip",
             "bin": [
                 "metaplay.exe"
             ],
-            "hash": "8ec5b8365278fda173bd50901377a81f737798e3d895680927051015a326c644"
+            "hash": "89f77df7ac5755fa3b3ebf2ec03c36a39266e108e233b90a51c48bb99d5dd340"
         }
     },
     "homepage": "https://www.metaplay.io/",
